@@ -21,7 +21,7 @@
 ---
 ## 📞Call📞
 
-<a href="mailto:seojin.developer@gmail.com">
+<a href="mailto:admin@seojin.tech">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
 
